@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/HFR">
+        <file>Resources/main_high.qml</file>
+        <file>Resources/image/failed.png</file>
+        <file>Resources/image/logo.ico</file>
+        <file>Resources/image/spinner.png</file>
+        <file>Resources/image/success.png</file>
+        <file>Resources/image/Transfer.png</file>
+        <file>Resources/image/凯狮.png</file>
+        <file>Resources/image/小.jpg</file>
+    </qresource>
+</RCC>
